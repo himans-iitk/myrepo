@@ -2,6 +2,7 @@ This file is devided into two parts. The first part is concerned with the person
 
 I am in my current branch, I just need to know whether it will be reflection of the branch or not.
 
+
 1. PERSONAL INFORMATION
     1.1 Name: Himanshu Mishra
     1.2 Age: 22
@@ -9,3 +10,7 @@ I am in my current branch, I just need to know whether it will be reflection of 
     1.4 Major in Machanical Enginnering, Minor in Computer Science and Engineering.
 
     I am just trying to add something.
+
+2. EXPERIENECE INFORMATION
+    2.1 Research intern in York-University, Ontario, Canada.
+    2.2 Working professional in Accenture, Japan.
