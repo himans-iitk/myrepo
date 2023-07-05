@@ -1,1 +1,3 @@
 This file is devided into two parts. The first part is concerned with the personal information whereas second part deals with the professional information.
+
+I am in my current branch, I just need to know whether it will be reflection of the branch or not.
