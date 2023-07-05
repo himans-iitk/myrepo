@@ -10,11 +10,12 @@ I am in my current branch, I just need to know whether it will be reflection of 
     1.4 Major in Machanical Enginnering, Minor in Computer Science and Engineering.
 
     I am just trying to add something.
-<<<<<<< Updated upstream
 
 2. EXPERIENECE INFORMATION
     2.1 Research intern in York-University, Ontario, Canada.
     2.2 Working professional in Accenture, Japan.
 
     I have added one more line in the branch as a checker.
+
+    I have added one more line in the branch as a checker. I have added more. Now I want to merge it with the main.
 
